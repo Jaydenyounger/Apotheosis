@@ -1,4 +1,4 @@
-# Project: Sanity
+# Apotheosis
 
 ## About the Repository
 
