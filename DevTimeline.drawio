@@ -1,0 +1,1039 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="P5pxIO1vDMMTKfDlBUrv">
+    <mxGraphModel dx="1012" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J11rbIyK5GNT_elJRjjh-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Pre-Production&lt;/span&gt;" vertex="1">
+          <mxGeometry height="210" width="280" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-6" parent="J11rbIyK5GNT_elJRjjh-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Concepts" vertex="1">
+          <mxGeometry height="20" width="260" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-7" parent="J11rbIyK5GNT_elJRjjh-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Project initialzation" vertex="1">
+          <mxGeometry height="20" width="260" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-8" parent="J11rbIyK5GNT_elJRjjh-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Documentation" vertex="1">
+          <mxGeometry height="20" width="260" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-9" parent="J11rbIyK5GNT_elJRjjh-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Game design" vertex="1">
+          <mxGeometry height="20" width="260" x="10" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-10" parent="J11rbIyK5GNT_elJRjjh-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Establish roles and workflows" vertex="1">
+          <mxGeometry height="20" width="260" x="10" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-11" parent="J11rbIyK5GNT_elJRjjh-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Layout the framework" vertex="1">
+          <mxGeometry height="20" width="260" x="10" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-5" edge="1" parent="1" source="J11rbIyK5GNT_elJRjjh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="J11rbIyK5GNT_elJRjjh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="May 1st, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="August 15th, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="200" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="August 16th, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="320" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;End of Pre-production meeting&lt;/span&gt;" vertex="1">
+          <mxGeometry height="210" width="120" x="320" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-16" parent="J11rbIyK5GNT_elJRjjh-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Review and complete any and all unfinished task." vertex="1">
+          <mxGeometry height="70" width="100" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-17" parent="J11rbIyK5GNT_elJRjjh-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Finalized all of our foundational concepts and ideas" vertex="1">
+          <mxGeometry height="70" width="100" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-18" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value=" " vertex="1">
+          <mxGeometry height="1820" width="1830" x="440" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-28" parent="J11rbIyK5GNT_elJRjjh-18" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;August&lt;/span&gt;" vertex="1">
+          <mxGeometry height="1630" width="330" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-161" parent="J11rbIyK5GNT_elJRjjh-28" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF0000;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;AI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="220" width="310" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-171" parent="J11rbIyK5GNT_elJRjjh-161" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the range enemy" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-172" parent="J11rbIyK5GNT_elJRjjh-161" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the melee enemy" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-173" parent="J11rbIyK5GNT_elJRjjh-161" style="rounded=0;whiteSpace=wrap;html=1;" value="Place and implement AI&#39;s into the playtest scene" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-180" parent="J11rbIyK5GNT_elJRjjh-161" style="rounded=0;whiteSpace=wrap;html=1;" value="Refactor the enemy UI system" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-8" parent="J11rbIyK5GNT_elJRjjh-161" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement Boss UI" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-9" parent="J11rbIyK5GNT_elJRjjh-161" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement aggression meter" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-36" parent="J11rbIyK5GNT_elJRjjh-161" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the level 1 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-29" parent="J11rbIyK5GNT_elJRjjh-161" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI systems by the end of the month" vertex="1">
+          <mxGeometry height="40" width="290" x="10" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-163" parent="J11rbIyK5GNT_elJRjjh-28" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Level design&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="310" x="10" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-186" parent="J11rbIyK5GNT_elJRjjh-163" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a basic playtesting area" vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-188" parent="J11rbIyK5GNT_elJRjjh-163" style="rounded=0;whiteSpace=wrap;html=1;" value="Create level streaming system and section loading" vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-38" parent="J11rbIyK5GNT_elJRjjh-163" style="rounded=0;whiteSpace=wrap;html=1;" value="Create entire level layout" vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-35" parent="J11rbIyK5GNT_elJRjjh-28" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement and prep the entire level layout for the level streaming system" vertex="1">
+          <mxGeometry height="30" width="295" x="17.5" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-47" parent="J11rbIyK5GNT_elJRjjh-28" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="295" x="17.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-162" parent="J11rbIyK5GNT_elJRjjh-28" style="swimlane;whiteSpace=wrap;html=1;fillColor=#000EFF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Game and player systems&lt;/span&gt;" vertex="1">
+          <mxGeometry height="170" width="310" x="10" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-182" parent="J11rbIyK5GNT_elJRjjh-162" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement the shield system" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-183" parent="J11rbIyK5GNT_elJRjjh-162" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the stun gun" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-184" parent="J11rbIyK5GNT_elJRjjh-162" style="rounded=0;whiteSpace=wrap;html=1;" value="Game management systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-44" parent="J11rbIyK5GNT_elJRjjh-162" style="rounded=0;whiteSpace=wrap;html=1;" value="Improve movement systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-54" parent="J11rbIyK5GNT_elJRjjh-162" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement stealth mechanics" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-13" parent="J11rbIyK5GNT_elJRjjh-162" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for game and player related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="290" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-167" parent="J11rbIyK5GNT_elJRjjh-28" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="870" width="310" x="10" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-168" parent="J11rbIyK5GNT_elJRjjh-28" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Character art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="220" width="296.88" x="18.75" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-189" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Create all base character models and defined rigs" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-13" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Create all of the animations for the player" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-57" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Create all of the animations for the range enemy" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-80" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Create all of the animations for the melee enemy" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-71" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the player model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-72" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the range enemy model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-73" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the melee enemy model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-98" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the Failed experiment 2050 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-121" parent="J11rbIyK5GNT_elJRjjh-168" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-15" parent="J11rbIyK5GNT_elJRjjh-28" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;VFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="296.88" x="18.75" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-191" parent="xaDqjPZmPMf4dcSS2Tnm-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Create environment destruction particle effects for level 1" vertex="1">
+          <mxGeometry height="30" width="286.88" x="5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-35" parent="xaDqjPZmPMf4dcSS2Tnm-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the level 1 environmental effects" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.000000000000001" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-193" parent="xaDqjPZmPMf4dcSS2Tnm-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Create particle effects&amp;nbsp;for all player actions" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.000000000000004" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-26" parent="xaDqjPZmPMf4dcSS2Tnm-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Create particle effects&amp;nbsp;for all melee enemy actions" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.000000000000004" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-27" parent="xaDqjPZmPMf4dcSS2Tnm-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Create particle effects&amp;nbsp;for all range enemy actions" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.000000000000004" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-163" parent="xaDqjPZmPMf4dcSS2Tnm-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.25" x="5.31000000000023" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-166" parent="J11rbIyK5GNT_elJRjjh-28" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;UI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="180" width="296.88" x="19.069999999999993" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-18" parent="J11rbIyK5GNT_elJRjjh-166" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional player UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.99" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-19" parent="J11rbIyK5GNT_elJRjjh-166" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional player menu" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.99" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-23" parent="J11rbIyK5GNT_elJRjjh-166" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional main menu" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.99" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-28" parent="J11rbIyK5GNT_elJRjjh-166" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional Death screen" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.99" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-29" parent="J11rbIyK5GNT_elJRjjh-166" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional interactable object UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.99" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-31" parent="J11rbIyK5GNT_elJRjjh-166" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional enemy UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.99" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-32" parent="J11rbIyK5GNT_elJRjjh-166" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional enemy agression UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.99" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-9" parent="J11rbIyK5GNT_elJRjjh-28" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;3D assets&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="291.25" x="18.75" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-10" parent="cbEcyyIaDpNSUBXncieH-9" style="rounded=0;whiteSpace=wrap;html=1;" value="Create or import a simple prototyping level asset set" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.189999999999882" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-19" parent="cbEcyyIaDpNSUBXncieH-9" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the vigor items" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.189999999999882" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-21" parent="cbEcyyIaDpNSUBXncieH-9" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the shield" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1899999999998823" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-23" parent="cbEcyyIaDpNSUBXncieH-9" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the stun gun" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1899999999998823" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-15" parent="cbEcyyIaDpNSUBXncieH-9" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the level 1 asset packs" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.189999999999884" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-20" parent="cbEcyyIaDpNSUBXncieH-9" style="rounded=0;whiteSpace=wrap;html=1;" value="Create level 1&#39;s destructible objects" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.189999999999884" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-28" parent="cbEcyyIaDpNSUBXncieH-9" style="rounded=0;whiteSpace=wrap;html=1;" value="Research and find assets that we can use for level 1" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.189999999999884" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-173" parent="J11rbIyK5GNT_elJRjjh-28" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for technical art related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="286.25" x="24.379999999999995" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-210" parent="J11rbIyK5GNT_elJRjjh-28" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="20.939999999999884" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-33" parent="J11rbIyK5GNT_elJRjjh-18" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;September&lt;/span&gt;" vertex="1">
+          <mxGeometry height="1620" width="330" x="380" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-34" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF0000;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;AI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="180" width="310" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-37" parent="xaDqjPZmPMf4dcSS2Tnm-34" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the range enemy" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-38" parent="xaDqjPZmPMf4dcSS2Tnm-34" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the melee enemy" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-35" parent="xaDqjPZmPMf4dcSS2Tnm-34" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the level 1 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-78" parent="xaDqjPZmPMf4dcSS2Tnm-34" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the level 2 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-16" parent="xaDqjPZmPMf4dcSS2Tnm-34" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-30" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI systems by the end of the month" vertex="1">
+          <mxGeometry height="40" width="290" x="20" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-50" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Level design&lt;/span&gt;" vertex="1">
+          <mxGeometry height="180" width="310" x="10" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-36" parent="xaDqjPZmPMf4dcSS2Tnm-50" style="rounded=0;whiteSpace=wrap;html=1;" value="The level layout is fully integrated with the level streaming system." vertex="1">
+          <mxGeometry height="30" width="295" x="7.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-53" parent="xaDqjPZmPMf4dcSS2Tnm-50" style="rounded=0;whiteSpace=wrap;html=1;" value="Expand the layout of the first level and populate the section with assets." vertex="1">
+          <mxGeometry height="30" width="295" x="7.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-52" parent="xaDqjPZmPMf4dcSS2Tnm-50" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement game systems to the first level." vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-79" parent="xaDqjPZmPMf4dcSS2Tnm-50" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement the sequence of events that will occur in the first level." vertex="1">
+          <mxGeometry height="30" width="295" x="7.5" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-48" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="295" x="17.5" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-55" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="swimlane;whiteSpace=wrap;html=1;fillColor=#000EFF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Game and player systems&lt;/span&gt;" vertex="1">
+          <mxGeometry height="190" width="310" x="10" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-60" parent="UozZ5X_pqfIijO9wKA3g-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the AI spawning systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-61" parent="UozZ5X_pqfIijO9wKA3g-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the Investigation systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-45" parent="UozZ5X_pqfIijO9wKA3g-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the shield system" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-46" parent="UozZ5X_pqfIijO9wKA3g-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the stun gun" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-47" parent="UozZ5X_pqfIijO9wKA3g-55" style="rounded=0;whiteSpace=wrap;html=1;" value="iterate on game management systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-18" parent="UozZ5X_pqfIijO9wKA3g-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-14" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for game and player related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="290" x="20" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-55" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Character art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="220" width="296.88" x="18.75" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-32" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the level 1 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.119999999999891" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-33" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the level 2 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.119999999999891" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-34" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Create all of the animations for the level 1 boss" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1200000000000028" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-76" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the player model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1200000000000045" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-77" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate&amp;nbsp;on the range enemy model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1200000000000045" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-78" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate&amp;nbsp;on the melee enemy model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1200000000000045" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-99" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the Failed experiment 2217 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999998818" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-101" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the Failed experiment 2050 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1200000000000045" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-122" parent="xaDqjPZmPMf4dcSS2Tnm-55" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999955" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-75" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="870" width="310" x="10" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-127" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;VFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="240" width="296.88" x="19.5" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-128" parent="-WB69FDSXh9G6wSbwHqT-127" style="rounded=0;whiteSpace=wrap;html=1;" value="Create environment destruction particle effects for level 2" vertex="1">
+          <mxGeometry height="30" width="286.88" x="5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-129" parent="-WB69FDSXh9G6wSbwHqT-127" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the level 2 environmental effects" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.000000000000001" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-84" parent="-WB69FDSXh9G6wSbwHqT-127" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visual effects for the investigation system" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.999999999999894" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-85" parent="-WB69FDSXh9G6wSbwHqT-127" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the dynamic lighting setup" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-40" parent="-WB69FDSXh9G6wSbwHqT-127" style="rounded=0;whiteSpace=wrap;html=1;" value="Create particle effects&amp;nbsp;for all of the level 1 boss actions" vertex="1">
+          <mxGeometry height="37" width="286.88" x="4.999999999999997" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-166" parent="-WB69FDSXh9G6wSbwHqT-127" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-141" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Create VFX for Failed experiment 2050" vertex="1">
+          <mxGeometry height="20" width="286.88" x="24.5" y="1027" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-174" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for technical art related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="286.88" x="24.5" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-179" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;UI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="296.88" x="19.5" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-63" parent="-WB69FDSXh9G6wSbwHqT-179" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the player UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.999999999999882" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-86" parent="-WB69FDSXh9G6wSbwHqT-179" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the player menu" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.999999999999882" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-87" parent="-WB69FDSXh9G6wSbwHqT-179" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the interactable object UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.999999999999882" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-70" parent="-WB69FDSXh9G6wSbwHqT-179" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the&amp;nbsp;enemy aggression UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.310000000000282" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-200" parent="-WB69FDSXh9G6wSbwHqT-179" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.25" x="4.999999999999998" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-24" parent="xaDqjPZmPMf4dcSS2Tnm-33" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;3D assets&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="296.88" x="19.5" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-26" parent="cbEcyyIaDpNSUBXncieH-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Finish up and complete any and all assets for level 1" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.849999999999882" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-31" parent="cbEcyyIaDpNSUBXncieH-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Create level 2&#39;s destructible objects" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.849999999999884" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-32" parent="cbEcyyIaDpNSUBXncieH-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the level 2 asset packs" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.849999999999884" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-42" parent="cbEcyyIaDpNSUBXncieH-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Research and find assets that we can use for level 2" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.849999999999877" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-43" parent="cbEcyyIaDpNSUBXncieH-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the shield model" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.1599999999998545" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-44" parent="cbEcyyIaDpNSUBXncieH-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the stun gun model" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.1599999999998545" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-209" parent="cbEcyyIaDpNSUBXncieH-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the vigor items" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.849999999999909" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-211" parent="cbEcyyIaDpNSUBXncieH-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.1599999999998545" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-91" parent="J11rbIyK5GNT_elJRjjh-18" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;October&lt;/span&gt;" vertex="1">
+          <mxGeometry height="1620" width="330" x="750" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-92" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF0000;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;AI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="310" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-94" parent="xaDqjPZmPMf4dcSS2Tnm-92" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the range enemy" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-95" parent="xaDqjPZmPMf4dcSS2Tnm-92" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the melee enemy" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-93" parent="xaDqjPZmPMf4dcSS2Tnm-92" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the level 1 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-96" parent="xaDqjPZmPMf4dcSS2Tnm-92" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the level 2 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-134" parent="xaDqjPZmPMf4dcSS2Tnm-92" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the level 3 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-23" parent="xaDqjPZmPMf4dcSS2Tnm-92" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-31" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI systems by the end of the month" vertex="1">
+          <mxGeometry height="40" width="290" x="20" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-2" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Level design&lt;/span&gt;" vertex="1">
+          <mxGeometry height="170" width="310" x="10" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-3" parent="cbEcyyIaDpNSUBXncieH-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement game systems to the 2nd level." vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-4" parent="cbEcyyIaDpNSUBXncieH-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Expand the layout of the 2nd level and populate the section with assets." vertex="1">
+          <mxGeometry height="30" width="295" x="7.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-5" parent="cbEcyyIaDpNSUBXncieH-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement the sequence of events that will occur in the 2nd level." vertex="1">
+          <mxGeometry height="30" width="295" x="7.5" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-49" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="295" x="17.5" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-43" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;fillColor=#000EFF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Game and player systems&lt;/span&gt;" vertex="1">
+          <mxGeometry height="230" width="310" x="10" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-48" parent="xaDqjPZmPMf4dcSS2Tnm-43" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the Investigation systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-68" parent="xaDqjPZmPMf4dcSS2Tnm-43" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the AI spawning systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-69" parent="xaDqjPZmPMf4dcSS2Tnm-43" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete on the shield system" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-70" parent="xaDqjPZmPMf4dcSS2Tnm-43" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete&amp;nbsp;on the stun gun" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-71" parent="xaDqjPZmPMf4dcSS2Tnm-43" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete&amp;nbsp;the game management systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-1" parent="xaDqjPZmPMf4dcSS2Tnm-43" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement the log system" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-19" parent="xaDqjPZmPMf4dcSS2Tnm-43" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-1" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on implementing upgrade system" vertex="1">
+          <mxGeometry height="20" width="290" x="20" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-15" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for game and player related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="290" x="20" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-108" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Character art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="260" width="296.88" x="18.75" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-81" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate&amp;nbsp;on the level 1 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.129999999999825" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-82" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate&amp;nbsp;on the level 2 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.129999999999825" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-83" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Create all of the animations for the level 2 boss" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999386" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-84" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete on the player model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999386" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-85" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete&amp;nbsp;on the range enemy model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999386" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-86" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete&amp;nbsp;on the melee enemy model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999386" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-95" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the level 3 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.129999999999825" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-100" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the Failed experiment 2319 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.0100000000000477" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-102" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the Failed experiment 2217 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.0099999999998204" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-111" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete on the Failed experiment 2050 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999998818" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-123" parent="xaDqjPZmPMf4dcSS2Tnm-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999386" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-80" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="810" width="310" x="10" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-133" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;VFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="240" width="296.88" x="19.299999999999955" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-134" parent="-WB69FDSXh9G6wSbwHqT-133" style="rounded=0;whiteSpace=wrap;html=1;" value="Create environment destruction particle effects for level 3" vertex="1">
+          <mxGeometry height="30" width="286.88" x="5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-135" parent="-WB69FDSXh9G6wSbwHqT-133" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the level 3 environmental effects" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.000000000000001" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-138" parent="-WB69FDSXh9G6wSbwHqT-133" style="rounded=0;whiteSpace=wrap;html=1;" value="Create particle effects&amp;nbsp;for all of the level 2 boss actions" vertex="1">
+          <mxGeometry height="37" width="286.88" x="4.999999999999997" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-54" parent="-WB69FDSXh9G6wSbwHqT-133" style="rounded=0;whiteSpace=wrap;html=1;" value="Refine the visual color grading." vertex="1">
+          <mxGeometry height="20" width="286.88" x="5" y="117" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-55" parent="-WB69FDSXh9G6wSbwHqT-133" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Work on any needed post process system" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-167" parent="-WB69FDSXh9G6wSbwHqT-133" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-143" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Create VFX for Failed experiment 2217" vertex="1">
+          <mxGeometry height="20" width="286.88" x="24.299999999999955" y="1117" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-175" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for technical art related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="286.88" x="24.299999999999955" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-114" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;UI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="296.88" x="19.669999999999845" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-65" parent="xaDqjPZmPMf4dcSS2Tnm-114" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the&amp;nbsp;main menu" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.8499999999999455" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-68" parent="xaDqjPZmPMf4dcSS2Tnm-114" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the enemy UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.9200000000001" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-30" parent="xaDqjPZmPMf4dcSS2Tnm-114" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional investigation UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="5.069999999999936" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-201" parent="xaDqjPZmPMf4dcSS2Tnm-114" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.25" x="5.700000000000102" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-33" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;3D assets&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="296.88" x="18.75" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-34" parent="cbEcyyIaDpNSUBXncieH-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the level 2 asset packs" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.999999999999883" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-35" parent="cbEcyyIaDpNSUBXncieH-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Create level 3&#39;s destructible objects" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.9999999999998845" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-36" parent="cbEcyyIaDpNSUBXncieH-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the level 3 asset packs" vertex="1">
+          <mxGeometry height="20" width="286.88" x="4.9999999999998845" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-213" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="23.749999999999773" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-124" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;SFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="310" x="10" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-79" parent="xaDqjPZmPMf4dcSS2Tnm-124" style="rounded=0;whiteSpace=wrap;html=1;" value="Begin working on the music track for level 3" vertex="1">
+          <mxGeometry height="20" width="290.01" x="9.670000000000073" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-222" parent="xaDqjPZmPMf4dcSS2Tnm-124" style="rounded=0;whiteSpace=wrap;html=1;" value="Continue developing a sound library for actions and events in game" vertex="1">
+          <mxGeometry height="30" width="290.01" x="8.75" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-126" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the music track for level 1" vertex="1">
+          <mxGeometry height="20" width="290.01" x="20" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-127" parent="xaDqjPZmPMf4dcSS2Tnm-91" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the&amp;nbsp;music track for level 2" vertex="1">
+          <mxGeometry height="20" width="290" x="20.00999999999999" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-37" parent="J11rbIyK5GNT_elJRjjh-18" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;November&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="1620" width="330" x="1120" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-38" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF0000;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;AI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="310" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-42" parent="cbEcyyIaDpNSUBXncieH-38" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the level 2 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-43" parent="cbEcyyIaDpNSUBXncieH-38" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the level 3 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-24" parent="cbEcyyIaDpNSUBXncieH-38" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-27" parent="cbEcyyIaDpNSUBXncieH-38" style="rounded=0;whiteSpace=wrap;html=1;" value="Improvements" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-32" parent="cbEcyyIaDpNSUBXncieH-37" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI systems by the end of the month" vertex="1">
+          <mxGeometry height="40" width="290" x="20" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-49" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Level design&lt;/span&gt;" vertex="1">
+          <mxGeometry height="170" width="310" x="10" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-50" parent="cbEcyyIaDpNSUBXncieH-49" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement game systems to the 3rd level." vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-51" parent="cbEcyyIaDpNSUBXncieH-49" style="rounded=0;whiteSpace=wrap;html=1;" value="Expand the layout of the 3rd level and populate the section with assets." vertex="1">
+          <mxGeometry height="30" width="295" x="7.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-52" parent="cbEcyyIaDpNSUBXncieH-49" style="rounded=0;whiteSpace=wrap;html=1;" value="Implement the sequence of events that will occur in the 3rd level." vertex="1">
+          <mxGeometry height="30" width="295" x="7.5" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-44" parent="cbEcyyIaDpNSUBXncieH-49" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-50" parent="cbEcyyIaDpNSUBXncieH-49" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="295" x="7.5" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-97" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;fillColor=#000EFF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Game and player systems&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="310" x="10" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-73" parent="xaDqjPZmPMf4dcSS2Tnm-97" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the upgrade system" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-9" parent="xaDqjPZmPMf4dcSS2Tnm-97" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the Investigation&amp;nbsp;systems" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-10" parent="xaDqjPZmPMf4dcSS2Tnm-97" style="rounded=0;whiteSpace=wrap;html=1;" value="work on the failed experiments" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-16" parent="xaDqjPZmPMf4dcSS2Tnm-97" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for game and player related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="290" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-20" parent="xaDqjPZmPMf4dcSS2Tnm-97" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-68" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;UI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="163" width="291.25" x="18.75" y="997" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-188" parent="cbEcyyIaDpNSUBXncieH-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a fully functional upgrade UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1799999999998363" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-198" parent="cbEcyyIaDpNSUBXncieH-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the investigation UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1799999999998363" y="53" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-66" parent="cbEcyyIaDpNSUBXncieH-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the&amp;nbsp;Death menu" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1799999999997226" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-203" parent="cbEcyyIaDpNSUBXncieH-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1899999999996" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-206" parent="cbEcyyIaDpNSUBXncieH-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete any and all other work" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1800000000000637" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-87" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="760" width="310" x="10" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-88" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Character art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="292.5" x="18.75" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-89" parent="-WB69FDSXh9G6wSbwHqT-88" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete on the level 1 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.129999999999825" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-90" parent="-WB69FDSXh9G6wSbwHqT-88" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete on the level 2 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.129999999999825" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-91" parent="-WB69FDSXh9G6wSbwHqT-88" style="rounded=0;whiteSpace=wrap;html=1;" value="Create all of the animations for the level 3 boss" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999999386" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-96" parent="-WB69FDSXh9G6wSbwHqT-88" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the level 3 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999998818" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-113" parent="-WB69FDSXh9G6wSbwHqT-88" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete on the Failed experiment 2217 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1299999999998818" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-114" parent="-WB69FDSXh9G6wSbwHqT-88" style="rounded=0;whiteSpace=wrap;html=1;" value="Iterate on the Failed experiment 2319 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1200000000001182" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-125" parent="-WB69FDSXh9G6wSbwHqT-88" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1200000000001182" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-120" parent="cbEcyyIaDpNSUBXncieH-37" style="rounded=0;whiteSpace=wrap;html=1;" value="Start on the Jane doe model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="21.87000000000012" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-146" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;VFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="207" width="292.5" x="18.75" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-170" parent="-WB69FDSXh9G6wSbwHqT-146" style="rounded=0;whiteSpace=wrap;html=1;" value="Work on any other VFX needed&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.900000000000091" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-168" parent="-WB69FDSXh9G6wSbwHqT-146" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="3.0499999999999545" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-157" parent="-WB69FDSXh9G6wSbwHqT-146" style="rounded=0;whiteSpace=wrap;html=1;" value="optimization" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.9000000000000274" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-145" parent="-WB69FDSXh9G6wSbwHqT-146" style="rounded=0;whiteSpace=wrap;html=1;" value="Create VFX for Failed experiment 2319" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.9000000000000092" y="87" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-62" parent="-WB69FDSXh9G6wSbwHqT-146" style="rounded=0;whiteSpace=wrap;html=1;" value="Create main menu environmental VFX&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.580000000000009" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-139" parent="-WB69FDSXh9G6wSbwHqT-146" style="rounded=0;whiteSpace=wrap;html=1;" value="Create particle effects&amp;nbsp;for all of the level 3 boss actions" vertex="1">
+          <mxGeometry height="37" width="286.88" x="2.900000000000002" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-177" parent="cbEcyyIaDpNSUBXncieH-37" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for technical art related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="286.88" x="21.799999999999955" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-64" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;3D assets&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="291.25" x="18.75" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-65" parent="cbEcyyIaDpNSUBXncieH-64" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the level 2 asset packs" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1899999999998823" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-66" parent="cbEcyyIaDpNSUBXncieH-64" style="rounded=0;whiteSpace=wrap;html=1;" value="Create level 3&#39;s destructible objects" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.189999999999884" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-67" parent="cbEcyyIaDpNSUBXncieH-64" style="rounded=0;whiteSpace=wrap;html=1;" value="Create the level 3 asset packs" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.189999999999884" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-207" parent="cbEcyyIaDpNSUBXncieH-37" style="rounded=0;whiteSpace=wrap;html=1;" value="Refine work" vertex="1">
+          <mxGeometry height="20" width="286.88" x="20.930000000000064" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-214" parent="cbEcyyIaDpNSUBXncieH-37" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="20.939999999999827" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-74" parent="cbEcyyIaDpNSUBXncieH-37" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;SFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="310" x="10.240000000000009" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-223" parent="cbEcyyIaDpNSUBXncieH-74" style="rounded=0;whiteSpace=wrap;html=1;" value="iterate on the music track for level 3" vertex="1">
+          <mxGeometry height="20" width="290" x="8.529999999999973" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-224" parent="cbEcyyIaDpNSUBXncieH-74" style="rounded=0;whiteSpace=wrap;html=1;" value="Continue developing a sound library for actions and events in game" vertex="1">
+          <mxGeometry height="30" width="290" x="9.38" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-165" parent="J11rbIyK5GNT_elJRjjh-18" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;SFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="310" x="20" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-197" parent="J11rbIyK5GNT_elJRjjh-165" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a global audio management system" vertex="1">
+          <mxGeometry height="20" width="290.01" x="9.99" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-198" parent="J11rbIyK5GNT_elJRjjh-165" style="rounded=0;whiteSpace=wrap;html=1;" value="Begin working on the music track for level 1" vertex="1">
+          <mxGeometry height="20" width="290.01" x="9.99" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-199" parent="J11rbIyK5GNT_elJRjjh-165" style="rounded=0;whiteSpace=wrap;html=1;" value="Begin working on the music track for level 2" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-200" parent="J11rbIyK5GNT_elJRjjh-165" style="rounded=0;whiteSpace=wrap;html=1;" value="Begin developing a sound library for actions and events in game" vertex="1">
+          <mxGeometry height="30" width="290.01" x="9.99" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-33" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Weekly small playtest" vertex="1">
+          <mxGeometry height="20" width="330" x="10" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-57" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Large playtest at the end of the month" vertex="1">
+          <mxGeometry height="30" width="330" x="10" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-72" parent="J11rbIyK5GNT_elJRjjh-18" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;SFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="310" x="390" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-76" parent="xaDqjPZmPMf4dcSS2Tnm-72" style="rounded=0;whiteSpace=wrap;html=1;" value="Continue developing a sound library for actions and events in game" vertex="1">
+          <mxGeometry height="30" width="290.01" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-75" parent="xaDqjPZmPMf4dcSS2Tnm-72" style="rounded=0;whiteSpace=wrap;html=1;" value="iterate on the music track for level 2" vertex="1">
+          <mxGeometry height="20" width="290" x="10.009999999999991" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-74" parent="xaDqjPZmPMf4dcSS2Tnm-72" style="rounded=0;whiteSpace=wrap;html=1;" value="iterate on the music track for level 1" vertex="1">
+          <mxGeometry height="20" width="290.01" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-71" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Weekly small playtest" vertex="1">
+          <mxGeometry height="20" width="330" x="380" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-77" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Large playtest at the end of the month" vertex="1">
+          <mxGeometry height="30" width="330" x="380" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="xaDqjPZmPMf4dcSS2Tnm-133" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Large playtest at the end of the month" vertex="1">
+          <mxGeometry height="30" width="330" x="750" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEcyyIaDpNSUBXncieH-82" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Large playtest at the end of the month" vertex="1">
+          <mxGeometry height="30" width="330" x="1120" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-12" parent="J11rbIyK5GNT_elJRjjh-18" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;December&lt;/span&gt;" vertex="1">
+          <mxGeometry height="1620" width="330" x="1490" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-13" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF0000;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;AI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="310" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-15" parent="UozZ5X_pqfIijO9wKA3g-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the level 3 boss" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-25" parent="UozZ5X_pqfIijO9wKA3g-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-26" parent="UozZ5X_pqfIijO9wKA3g-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Improvements" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-33" parent="UozZ5X_pqfIijO9wKA3g-12" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI systems by the end of the month" vertex="1">
+          <mxGeometry height="40" width="290" x="20" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-38" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Level design&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="310" x="10" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-41" parent="UozZ5X_pqfIijO9wKA3g-38" style="rounded=0;whiteSpace=wrap;html=1;" value="Clean and polish up" vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-45" parent="UozZ5X_pqfIijO9wKA3g-38" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="295" x="7.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-52" parent="UozZ5X_pqfIijO9wKA3g-12" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for AI related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="295" x="17.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-53" parent="UozZ5X_pqfIijO9wKA3g-12" style="rounded=0;whiteSpace=wrap;html=1;" value="Create clean level renders for the steam page" vertex="1">
+          <mxGeometry height="20" width="295" x="17.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-72" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;fillColor=#000EFF;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Game and player systems&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="310" x="10" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-21" parent="UozZ5X_pqfIijO9wKA3g-72" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the upgrade system" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-22" parent="UozZ5X_pqfIijO9wKA3g-72" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the failed experiments" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-23" parent="UozZ5X_pqfIijO9wKA3g-72" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-24" parent="UozZ5X_pqfIijO9wKA3g-72" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for game and player related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="290" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-25" parent="UozZ5X_pqfIijO9wKA3g-72" style="rounded=0;whiteSpace=wrap;html=1;" value="Improvement and quality of life changes" vertex="1">
+          <mxGeometry height="20" width="290" x="10" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-97" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="570" width="310" x="10" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-104" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Character art&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="292.5" x="21.99000000000001" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-115" parent="-WB69FDSXh9G6wSbwHqT-104" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete on the Failed experiment 2319 model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.1200000000001182" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-116" parent="-WB69FDSXh9G6wSbwHqT-104" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the level 3 boss model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.119999999999891" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-117" parent="-WB69FDSXh9G6wSbwHqT-104" style="rounded=0;whiteSpace=wrap;html=1;" value="Clean and refine any and all artwork" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.119999999999891" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-118" parent="-WB69FDSXh9G6wSbwHqT-104" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete the Jane doe model" vertex="1">
+          <mxGeometry height="20" width="286.25" x="3.119999999999891" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-126" parent="UozZ5X_pqfIijO9wKA3g-12" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.25" x="25.1099999999999" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-158" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;VFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="292.5" x="21.980000000000018" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-155" parent="-WB69FDSXh9G6wSbwHqT-158" style="rounded=0;whiteSpace=wrap;html=1;" value="Improve any and all VFX systems" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.81" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-156" parent="-WB69FDSXh9G6wSbwHqT-158" style="rounded=0;whiteSpace=wrap;html=1;" value="optimization" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.809999999999999" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-169" parent="-WB69FDSXh9G6wSbwHqT-158" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.8099999999999454" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-171" parent="-WB69FDSXh9G6wSbwHqT-158" style="rounded=0;whiteSpace=wrap;html=1;" value="Work on any other VFX needed&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.8099999999999454" y="87" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-178" parent="UozZ5X_pqfIijO9wKA3g-12" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Dev log for technical art related content by the end of the month" vertex="1">
+          <mxGeometry height="30" width="286.88" x="24.789999999999964" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-193" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;UI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="292.5" x="21.99000000000001" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-199" parent="-WB69FDSXh9G6wSbwHqT-193" style="rounded=0;whiteSpace=wrap;html=1;" value="Create visuals for the upgrade UI" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.490000000000066" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-204" parent="-WB69FDSXh9G6wSbwHqT-193" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.8100000000000662" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-205" parent="-WB69FDSXh9G6wSbwHqT-193" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete any and all other work" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.8100000000000662" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-208" parent="-WB69FDSXh9G6wSbwHqT-193" style="rounded=0;whiteSpace=wrap;html=1;" value="Refine work" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.8099999999999454" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-215" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;3D assets&lt;/span&gt;" vertex="1">
+          <mxGeometry height="97" width="291.25" x="21.980000000000018" y="943" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-216" parent="-WB69FDSXh9G6wSbwHqT-215" style="rounded=0;whiteSpace=wrap;html=1;" value="Complete any unfinished work" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1899999999998823" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-220" parent="-WB69FDSXh9G6wSbwHqT-215" style="rounded=0;whiteSpace=wrap;html=1;" value="Refine any artwork" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1799999999998825" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-221" parent="-WB69FDSXh9G6wSbwHqT-215" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload completed work onto Artstation" vertex="1">
+          <mxGeometry height="20" width="286.88" x="2.1899999999998823" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-225" parent="UozZ5X_pqfIijO9wKA3g-12" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;SFX&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="310" x="10" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-227" parent="-WB69FDSXh9G6wSbwHqT-225" style="rounded=0;whiteSpace=wrap;html=1;" value="All SFX for game actions and events are done and completed" vertex="1">
+          <mxGeometry height="30" width="290" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UozZ5X_pqfIijO9wKA3g-43" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Fix issues from last playtest" vertex="1">
+          <mxGeometry height="20" width="295" x="767.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-228" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="the last Large playtest at the end of the month" vertex="1">
+          <mxGeometry height="30" width="330" x="1490" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-229" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Dev log uploaded at the end of each month on Itch.io&lt;/font&gt;" vertex="1">
+          <mxGeometry height="37" width="1810" x="10" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-240" parent="J11rbIyK5GNT_elJRjjh-18" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Upload footage of progress to our socials at the end of the month&lt;/font&gt;" vertex="1">
+          <mxGeometry height="37" width="1810" x="10" y="1767" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-25" edge="1" parent="1" source="J11rbIyK5GNT_elJRjjh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="J11rbIyK5GNT_elJRjjh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="August 16th, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="440" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-61" edge="1" parent="1" source="J11rbIyK5GNT_elJRjjh-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WB69FDSXh9G6wSbwHqT-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="December 21th, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="2390" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-154" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;End of Production meeting&lt;/span&gt;" vertex="1">
+          <mxGeometry height="290" width="120" x="2270" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-155" parent="J11rbIyK5GNT_elJRjjh-154" style="rounded=0;whiteSpace=wrap;html=1;" value="Review and complete any and all unfinished task." vertex="1">
+          <mxGeometry height="70" width="100" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-156" parent="J11rbIyK5GNT_elJRjjh-154" style="rounded=0;whiteSpace=wrap;html=1;" value="Review what is needing to be done and progress and see what needs to be cut or what else can we add depending on how development goes." vertex="1">
+          <mxGeometry height="150" width="100" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J11rbIyK5GNT_elJRjjh-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="December 20th, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="2270" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-57" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Holidays, no work will be done during this time&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="2390" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="December 27th, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="2670" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="December 28th, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="2790" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-63" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Beginning the build up to release&lt;/span&gt;" vertex="1">
+          <mxGeometry height="450" width="120" x="2790" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-66" parent="-WB69FDSXh9G6wSbwHqT-63" style="rounded=0;whiteSpace=wrap;html=1;" value="We will have a group meeting to discuss the build up to release." vertex="1">
+          <mxGeometry height="70" width="100" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-64" parent="-WB69FDSXh9G6wSbwHqT-63" style="rounded=0;whiteSpace=wrap;html=1;" value="Look over task and delegate work" vertex="1">
+          <mxGeometry height="70" width="100" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-65" parent="-WB69FDSXh9G6wSbwHqT-63" style="rounded=0;whiteSpace=wrap;html=1;" value="Review what is needing to be done and progress and see what needs to be cut or what else can we add depending on how development goes." vertex="1">
+          <mxGeometry height="150" width="100" x="10" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-69" parent="-WB69FDSXh9G6wSbwHqT-63" style="rounded=0;whiteSpace=wrap;html=1;" value="All hands on deck from this point on." vertex="1">
+          <mxGeometry height="70" width="100" x="10" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-232" edge="1" parent="1" source="-WB69FDSXh9G6wSbwHqT-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-WB69FDSXh9G6wSbwHqT-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-230" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="December 29th, 2026" vertex="1">
+          <mxGeometry height="20" width="120" x="2910" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-231" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="January 14, 2027" vertex="1">
+          <mxGeometry height="20" width="310" x="3400" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-233" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Build up to release&lt;/span&gt;" vertex="1">
+          <mxGeometry height="550" width="490" x="2910" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-251" parent="-WB69FDSXh9G6wSbwHqT-233" style="rounded=0;whiteSpace=wrap;html=1;" value="I will divide the team up to focus on marketing" vertex="1">
+          <mxGeometry height="20" width="470" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-243" parent="-WB69FDSXh9G6wSbwHqT-233" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Other people who are not working marketing&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="470" x="10" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-249" parent="-WB69FDSXh9G6wSbwHqT-243" style="rounded=0;whiteSpace=wrap;html=1;" value="We are bound to have some last minute stuff to work on" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-250" parent="-WB69FDSXh9G6wSbwHqT-243" style="rounded=0;whiteSpace=wrap;html=1;" value="Be prepared to take up task and work." vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-252" parent="-WB69FDSXh9G6wSbwHqT-243" style="rounded=0;whiteSpace=wrap;html=1;" value="We will conduct very small testing for bugs and issues to fix" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-234" parent="-WB69FDSXh9G6wSbwHqT-233" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;the people who will working on marketing with Darbee, you will focus on creating promotional material for release&lt;/span&gt;" vertex="1">
+          <mxGeometry height="190" width="470" x="10" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-236" parent="-WB69FDSXh9G6wSbwHqT-234" style="rounded=0;whiteSpace=wrap;html=1;" value="Gameplay footage and trailer" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-237" parent="-WB69FDSXh9G6wSbwHqT-234" style="rounded=0;whiteSpace=wrap;html=1;" value="Revamp steam page" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-238" parent="-WB69FDSXh9G6wSbwHqT-234" style="rounded=0;whiteSpace=wrap;html=1;" value="High quality renders for promotional material to upload on our socials" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-241" parent="-WB69FDSXh9G6wSbwHqT-234" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload said material on various plaforms" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-242" parent="-WB69FDSXh9G6wSbwHqT-234" style="rounded=0;whiteSpace=wrap;html=1;" value="Find even more ways to get the word out" vertex="1">
+          <mxGeometry height="20" width="450" x="10" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-253" parent="-WB69FDSXh9G6wSbwHqT-233" style="rounded=0;whiteSpace=wrap;html=1;" value="final bits of optimization that is needed" vertex="1">
+          <mxGeometry height="20" width="450" x="20" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-263" parent="-WB69FDSXh9G6wSbwHqT-233" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;January 13, 2027 at 11:30 PM the project lead will create the final and last build of the game.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="470" x="10" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-264" parent="-WB69FDSXh9G6wSbwHqT-263" style="rounded=0;whiteSpace=wrap;html=1;" value="Development of the game will be considered done and complete." vertex="1">
+          <mxGeometry height="30" width="450" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-255" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" value="Release" vertex="1">
+          <mxGeometry height="290" width="310" x="3400" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-256" parent="-WB69FDSXh9G6wSbwHqT-255" style="rounded=0;whiteSpace=wrap;html=1;" value="We will release the game January 14, 2027 at 11pm central" vertex="1">
+          <mxGeometry height="50" width="290" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-257" parent="-WB69FDSXh9G6wSbwHqT-255" style="rounded=0;whiteSpace=wrap;html=1;" value="Marketing will create a simple official release gameplay trailer and promotional material for the release of the game" vertex="1">
+          <mxGeometry height="50" width="290" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-259" parent="-WB69FDSXh9G6wSbwHqT-255" style="rounded=0;whiteSpace=wrap;html=1;" value="We will get into one last call in the morning working with marketing to create the material that they need." vertex="1">
+          <mxGeometry height="50" width="290" x="10" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-WB69FDSXh9G6wSbwHqT-260" parent="-WB69FDSXh9G6wSbwHqT-255" style="rounded=0;whiteSpace=wrap;html=1;" value="We will get into one last call in the morning working with marketing to create the material that they need." vertex="1">
+          <mxGeometry height="50" width="290" x="10" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
